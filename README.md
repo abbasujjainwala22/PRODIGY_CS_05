@@ -28,8 +28,6 @@ Note that this is a very basic packet sniffer and does not include any advanced 
 
 # Usage
 
-This script is intended for educational purposes only. Please use it responsibly and do not use it for illegal activities.
-
 Note that you may need to have certain permissions or privileges on your system to capture network packets. On Unix-based systems, you may need to run the script with sudo privileges.
 
 # Disclaimer
