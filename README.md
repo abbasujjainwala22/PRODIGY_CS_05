@@ -1,6 +1,4 @@
-# PRODIGY_CS_05
-
-## Packet Sniffer
+# Packet Sniffer
 
 # Description
 
